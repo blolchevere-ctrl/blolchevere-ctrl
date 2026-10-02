@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="./assets/banner-binario.jpg" width="100%" alt="Cybersecurity & Binary Code Banner" />
+  <img src="banner-binario.jpg" width="100%" alt="Cybersecurity & Binary Code Banner" />
 </div>
 
 <br />
@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="22%" align="center" valign="middle">
-      <img src="./assets/escudo-unalm.png" width="130" alt="UNALM Shield" />
+      <img src="escudo-unalm.png" width="130" alt="UNALM Shield" />
     </td>
   </tr>
 </table>
