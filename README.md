@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="22%" align="center" valign="middle">
-      <img src="./escudo-unalm.jpg" width="130" alt="UNALM Shield" />
+      <img src="./escudo-unalm.png" width="130" alt="UNALM Shield" />
     </td>
   </tr>
 </table>
