@@ -1,11 +1,11 @@
-<!-- HEADER BANNER LOCAL -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="./banner-binario.jpg" width="100%" alt="Cybersecurity & Binary Code Banner" />
+  <img src="./assets/banner-binario.jpg" width="100%" alt="Cybersecurity & Binary Code Banner" />
 </div>
 
 <br />
 
-<!-- HEADER SECTION WITH LOCAL UNALM SHIELD -->
+<!-- HEADER SECTION WITH UNALM SHIELD -->
 <table border="0" width="100%">
   <tr>
     <td width="78%" valign="top">
@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="22%" align="center" valign="middle">
-      <img src="./escudo-unalm.png" width="130" alt="UNALM Shield" />
+      <img src="./assets/escudo-unalm.png" width="130" alt="UNALM Shield" />
     </td>
   </tr>
 </table>
@@ -91,13 +91,13 @@ I am a **Statistics and Informatics student at UNALM** specializing in the inter
   <tr>
     <td width="35%" valign="top">
       <b>📊 1. Applied Multivariate Analysis</b><br /><br />
-      <a href="https://github.com/brianalvaaquino/Applied-Multivariate-Analysis">
+      <a href="https://github.com/blolchevere-ctrl/Applied-Multivariate-Analysis">
         <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
     </td>
     <td width="65%" valign="top">
-      Statistical and computational evaluations using multivariate techniques: MANOVA/MANCOVA, Principal Component Analysis (PCA), Discriminant Analysis, and Advanced Logistic Regression. Interactive technical reports generated with Quarto.<br /><br />
-      <b>Tech Stack:</b> <code>R</code> <code>Quarto</code> <code>Python</code> <code>PCA</code> <code>MANOVA</code>
+      Statistical and computational evaluations using multivariate techniques: MANOVA/MANCOVA, Principal Component Analysis (PCA), Discriminant Analysis, and Advanced Logistic Regression.<br /><br />
+      <b>Tech Stack:</b> <code>R</code> <code>Quarto</code> <code>Python</code> <code>PCA</code>
     </td>
   </tr>
 
@@ -105,13 +105,13 @@ I am a **Statistics and Informatics student at UNALM** specializing in the inter
   <tr>
     <td width="35%" valign="top">
       <b>🌐 2. Chopimath Web Platform</b><br /><br />
-      <a href="https://github.com/brianalvaaquino/Chopimath-Web">
+      <a href="https://github.com/blolchevere-ctrl/CHOPIPROJECT">
         <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
     </td>
     <td width="65%" valign="top">
-      Interactive web application designed to support mathematics and statistical learning. Features custom analytical calculation engines, dynamic visualizations, and structured educational modules.<br /><br />
-      <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GitHub Pages</code>
+      Interactive web application designed to support mathematics and statistical learning. Features custom analytical calculation engines and dynamic visualizations.<br /><br />
+      <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
   </tr>
 
@@ -119,13 +119,13 @@ I am a **Statistics and Informatics student at UNALM** specializing in the inter
   <tr>
     <td width="35%" valign="top">
       <b>📦 3. LP2 - Object-Oriented Programming Project</b><br /><br />
-      <a href="https://github.com/brianalvaaquino/LP2-Midterm-Project">
+      <a href="https://github.com/blolchevere-ctrl/LP2-Object-Oriented-Programming-Project">
         <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
     </td>
     <td width="65%" valign="top">
-      Midterm academic project for Language Programming II (LP2). Focuses on OOP principles, custom data structure optimizations, and relational database connection architectures for analytical tasks.<br /><br />
-      <b>Tech Stack:</b> <code>Java</code> <code>C++</code> <code>OOP Architecture</code> <code>SQL</code>
+      Midterm academic project for Language Programming II. Focuses on OOP principles, custom data structure optimizations, and database connectivity.<br /><br />
+      <b>Tech Stack:</b> <code>Java</code> <code>C++</code> <code>SQL</code>
     </td>
   </tr>
 
@@ -133,13 +133,13 @@ I am a **Statistics and Informatics student at UNALM** specializing in the inter
   <tr>
     <td width="35%" valign="top">
       <b>🛡️ 4. ML-Powered SQL Injection Detection & Database Risk Scoring</b><br /><br />
-      <a href="https://github.com/brianalvaaquino/SQLi-Database-Risk-Assessment">
+      <a href="https://github.com/blolchevere-ctrl/SQLi-Database-Risk-Assessment">
         <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
     </td>
     <td width="65%" valign="top">
-      A Machine Learning security pipeline leveraging Logistic Regression, Random Forest, and natural language query parsing to classify malicious SQL injections and compute automated database vulnerability risk scores.<br /><br />
-      <b>Tech Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>SQL</code> <code>PostgreSQL</code> <code>Logistic Regression</code>
+      A Machine Learning security pipeline leveraging Logistic Regression, Random Forest, and query parsing to classify malicious SQL injections and compute risk scores.<br /><br />
+      <b>Tech Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>SQL</code> <code>PostgreSQL</code>
     </td>
   </tr>
 
@@ -147,13 +147,13 @@ I am a **Statistics and Informatics student at UNALM** specializing in the inter
   <tr>
     <td width="35%" valign="top">
       <b>🐧 5. Predictive Linux Security & Data Intrusion Modeling</b><br /><br />
-      <a href="https://github.com/brianalvaaquino/Linux-Predictive-Security-Data-Protection">
+      <a href="https://github.com/blolchevere-ctrl/Predictive-Linux-Security-and-Data-Intrusion-Modeling">
         <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
     </td>
     <td width="65%" valign="top">
-      Statistical regression models and unsupervised anomaly detection algorithms applied to Linux system calls and access logs to predict unauthorized data access and enforce automated data protection rules.<br /><br />
-      <b>Tech Stack:</b> <code>Linux</code> <code>Python</code> <code>Bash</code> <code>Regression Analysis</code> <code>Data Protection</code>
+      Statistical regression models and anomaly detection algorithms applied to Linux system calls and logs to predict unauthorized data access.<br /><br />
+      <b>Tech Stack:</b> <code>Linux</code> <code>Python</code> <code>Bash</code> <code>Regression Analysis</code>
     </td>
   </tr>
 
@@ -161,13 +161,13 @@ I am a **Statistics and Informatics student at UNALM** specializing in the inter
   <tr>
     <td width="35%" valign="top">
       <b>🔍 6. Statistical Threat Detection & Anomaly SIEM for Linux & SQL</b><br /><br />
-      <a href="https://github.com/brianalvaaquino/SIEM-Statistical-Threat-Detection">
+      <a href="https://github.com/blolchevere-ctrl/Statistical-Threat-Detection-and-Anomaly-SIEM-for-Linux-and-SQL">
         <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
       </a>
     </td>
     <td width="65%" valign="top">
-      Time-series statistical analysis and Machine Learning models (Isolation Forest & Poisson Regression) for real-time anomaly detection in Linux authentication logs and database query traffic.<br /><br />
-      <b>Tech Stack:</b> <code>Python</code> <code>Machine Learning</code> <code>Time-Series Analysis</code> <code>SQL Audit</code> <code>Linux</code>
+      Time-series statistical analysis and Isolation Forest models for real-time anomaly detection in Linux authentication logs and database traffic.<br /><br />
+      <b>Tech Stack:</b> <code>Python</code> <code>Machine Learning</code> <code>Time-Series</code> <code>SQL Audit</code>
     </td>
   </tr>
 </table>
