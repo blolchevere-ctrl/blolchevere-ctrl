@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://motionbgs.com/media/5599/binary-code-falling.jpg" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Cybersecurity & Binary Code Banner" />
+  <img src="https://image.slidesdocs.com/responsive-images/background/neon-code-featuring-a-concept-of-binary-code-with-3d-rendered-illustration-of-blurred-binary-data-powerpoint-background_6351cccc0f__960_540.jpg" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Cybersecurity & Binary Code Banner" />
 </div>
 
 <br />
@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="22%" align="center" valign="middle">
-      <img src="https://www.lamolina.edu.pe/portada/html/acerca/escudos/download/color/1193x1355_ESCUDOCOLOR.png" width="130" alt="UNALM Shield" />
+      <img src="https://www.lamolina.edu.pe/portada/html/acerca/escudos/download/color/856x973_ESCUDOCOLOR.jpg" width="130" alt="UNALM Shield" />
     </td>
   </tr>
 </table>
