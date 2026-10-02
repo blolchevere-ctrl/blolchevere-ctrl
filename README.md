@@ -86,88 +86,158 @@ I am a **Statistics and Informatics student at UNALM** specializing in the inter
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <!-- PROJECT 1 -->
+<table border="0" width="100%">
+  <!-- PROYECTO 1 -->
   <tr>
     <td width="35%" valign="top">
-      <b>📊 1. Applied Multivariate Analysis</b><br /><br />
+      <h3>📊 1. Applied Multivariate Analysis</h3>
       <a href="https://github.com/blolchevere-ctrl/Applied-Multivariate-Analysis">
-        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+        <img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
       </a>
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td width="65%" valign="top">
-      Statistical and computational evaluations using multivariate techniques: MANOVA/MANCOVA, Principal Component Analysis (PCA), Discriminant Analysis, and Advanced Logistic Regression.<br /><br />
-      <b>Tech Stack:</b> <code>R</code> <code>Quarto</code> <code>Python</code> <code>PCA</code>
+      <p>
+        Reproducible statistical inference framework designed for complex data structures.
+      </p>
+      <ul>
+        <li><b>Core Techniques:</b> MANOVA/MANCOVA, PCA, Discriminant Analysis & Logistic Regression.</li>
+        <li><b>Deliverables:</b> Dynamic Quarto reports with interactive R & Python integration.</li>
+      </ul>
     </td>
   </tr>
 
-  <!-- PROJECT 2 -->
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- PROYECTO 2 -->
   <tr>
     <td width="35%" valign="top">
-      <b>🌐 2. Chopimath Web Platform</b><br /><br />
+      <h3>🌐 2. Chopimath Web Platform</h3>
       <a href="https://github.com/blolchevere-ctrl/CHOPIPROJECT">
-        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+        <img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
       </a>
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="65%" valign="top">
-      Interactive web application designed to support mathematics and statistical learning. Features custom analytical calculation engines and dynamic visualizations.<br /><br />
-      <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+      <p>
+        Interactive educational web platform for mathematical and statistical modeling.
+      </p>
+      <ul>
+        <li><b>Features:</b> Custom analytical calculation engines and dynamic charts.</li>
+        <li><b>Rendering:</b> LaTeX integration for formulas via MathJax & Chart.js.</li>
+      </ul>
     </td>
   </tr>
 
-  <!-- PROJECT 3 -->
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- PROYECTO 3 -->
   <tr>
     <td width="35%" valign="top">
-      <b>📦 3. LP2 - Object-Oriented Programming Project</b><br /><br />
+      <h3>📦 3. LP2 - OOP Project</h3>
       <a href="https://github.com/blolchevere-ctrl/LP2-Object-Oriented-Programming-Project">
-        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+        <img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
       </a>
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
     <td width="65%" valign="top">
-      Midterm academic project for Language Programming II. Focuses on OOP principles, custom data structure optimizations, and database connectivity.<br /><br />
-      <b>Tech Stack:</b> <code>Java</code> <code>C++</code> <code>SQL</code>
+      <p>
+        Software development suite covering object-oriented architecture and automation.
+      </p>
+      <ul>
+        <li><b>OOP & Data Structures:</b> Clean design, custom linked lists, trees & stacks.</li>
+        <li><b>Automation:</b> Unix/Bash shell scripting, Regex parsing, and Web Scraping.</li>
+      </ul>
     </td>
   </tr>
 
-  <!-- PROJECT 4 -->
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- PROYECTO 4 -->
   <tr>
     <td width="35%" valign="top">
-      <b>🛡️ 4. ML-Powered SQL Injection Detection & Database Risk Scoring</b><br /><br />
-      <a href="https://github.com/blolchevere-ctrl/SQLi-Database-Risk-Assessment">
-        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      <h3>🛡️ 4. ML SQLi Detection & Risk</h3>
+      <a href="https://github.com/blolchevere-ctrl/ML-Powered-SQL-Injection-Detection-and-Database-Risk-Scoring">
+        <img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
       </a>
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td width="65%" valign="top">
-      A Machine Learning security pipeline leveraging Logistic Regression, Random Forest, and query parsing to classify malicious SQL injections and compute risk scores.<br /><br />
-      <b>Tech Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>SQL</code> <code>PostgreSQL</code>
+      <p>
+        Enterprise Machine Learning security pipeline for real-time threat classification.
+      </p>
+      <ul>
+        <li><b>NLP & ML:</b> TF-IDF N-grams feature extraction paired with XGBoost / Random Forest.</li>
+        <li><b>Risk Engine:</b> Active DB triggers for scoring and automated query blocking.</li>
+      </ul>
     </td>
   </tr>
 
-  <!-- PROJECT 5 -->
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- PROYECTO 5 -->
   <tr>
     <td width="35%" valign="top">
-      <b>🐧 5. Predictive Linux Security & Data Intrusion Modeling</b><br /><br />
+      <h3>🐧 5. Predictive Linux Security</h3>
       <a href="https://github.com/blolchevere-ctrl/Predictive-Linux-Security-and-Data-Intrusion-Modeling">
-        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+        <img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
       </a>
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
     </td>
     <td width="65%" valign="top">
-      Statistical regression models and anomaly detection algorithms applied to Linux system calls and logs to predict unauthorized data access.<br /><br />
-      <b>Tech Stack:</b> <code>Linux</code> <code>Python</code> <code>Bash</code> <code>Regression Analysis</code>
+      <p>
+        Defensive security system combining Kernel telemetry with predictive analytics.
+      </p>
+      <ul>
+        <li><b>Statistical Modeling:</b> Logistic and Poisson regression over Syslog / auditd.</li>
+        <li><b>Active Defense:</b> Automated dynamic firewall mitigation rules via iptables / ufw.</li>
+      </ul>
     </td>
   </tr>
 
-  <!-- PROJECT 6 -->
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- PROYECTO 6 -->
   <tr>
     <td width="35%" valign="top">
-      <b>🔍 6. Statistical Threat Detection & Anomaly SIEM for Linux & SQL</b><br /><br />
+      <h3>🔍 6. Statistical SIEM Engine</h3>
       <a href="https://github.com/blolchevere-ctrl/Statistical-Threat-Detection-and-Anomaly-SIEM-for-Linux-and-SQL">
-        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+        <img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
       </a>
+      <br/><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML-Isolation_Forest-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     </td>
     <td width="65%" valign="top">
-      Time-series statistical analysis and Isolation Forest models for real-time anomaly detection in Linux authentication logs and database traffic.<br /><br />
-      <b>Tech Stack:</b> <code>Python</code> <code>Machine Learning</code> <code>Time-Series</code> <code>SQL Audit</code>
+      <p>
+        Unsupervised SIEM platform for real-time anomaly detection across Linux & SQL.
+      </p>
+      <ul>
+        <li><b>Anomaly Engine:</b> Multi-source telemetry ETL with Isolation Forest models.</li>
+        <li><b>Dashboard:</b> Real-time monitoring UI with custom alert triggers.</li>
+      </ul>
     </td>
   </tr>
 </table>
