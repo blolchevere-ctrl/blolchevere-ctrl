@@ -1,83 +1,215 @@
-<table width="100%">
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://motionbgs.com/media/5599/binary-code-falling.jpg" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Cybersecurity & Binary Code Banner" />
+</div>
+
+<br />
+
+<!-- HEADER SECTION WITH UNALM SHIELD -->
+<table border="0" width="100%">
   <tr>
-    <td valign="top">
-      <h1>Brian Alva Aquino</h1>
-      <p><strong>Undergraduate Student in Statistics and Informatics</strong><br>
-      Universidad Nacional Agraria La Molina (UNALM), Lima, Peru</p>
-      <p>Specializing in Statistical Modeling, Applied Machine Learning, Database Security, and Linux Infrastructure.</p>
-      <p>Contact: <a href="mailto:brianalvaaquin@gmail.com">brianalvaaquin@gmail.com</a></p>
+    <td width="78%" valign="top">
+      <h1>👋 Hi, I'm Brian Alva Aquino</h1>
+      <h3>📊 Statistician & Data Scientist | 🛡️ Cybersecurity & Data Protection Specialist</h3>
+      <p>
+        🎓 <strong>Undergraduate Student in Statistics and Informatics</strong> at <strong>Universidad Nacional Agraria La Molina (UNALM)</strong><br />
+        📍 Lima, Peru &nbsp;|&nbsp; ✉️ <a href="mailto:brianalvaaquin@gmail.com">brianalvaaquin@gmail.com</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active_Student-008000?style=for-the-badge&logo=github" alt="Status" />
+        <img src="https://img.shields.io/badge/University-UNALM-134074?style=for-the-badge" alt="UNALM" />
+        <img src="https://img.shields.io/badge/Focus-ML_%26_Data_Security-00599C?style=for-the-badge" alt="Focus" />
+      </p>
     </td>
-    <td align="right" valign="top" width="160">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_UNALM.png/150px-Escudo_UNALM.png" width="140" alt="UNALM Shield">
+    <td width="22%" align="center" valign="middle">
+      <img src="https://www.lamolina.edu.pe/portada/html/acerca/escudos/download/color/1193x1355_ESCUDOCOLOR.png" width="130" alt="UNALM Shield" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Profile Overview
+## 👨‍💻 About Me
 
-I am an undergraduate student of Statistics and Informatics at Universidad Nacional Agraria La Molina (UNALM). My academic background combines mathematical rigor, statistical modeling, and computational methods with an interest in cybersecurity, data protection, and database security.
+I am a **Statistics and Informatics student at UNALM** specializing in the intersection of **Machine Learning, Statistical Modeling, and Cybersecurity**. My work focuses on building data-driven security solutions, performing database risk assessments (SQLi prevention), protecting privacy through statistical safeguards, and securing Linux infrastructure.
 
-* **Academic Foundation:** Applied Multivariate Analysis, Statistical Inference, Regression Analysis, and Software Engineering.
-* **Cybersecurity & Data Privacy:** Machine Learning for SQL Injection detection, database audit trail analysis, and privacy-preserving statistical methods.
-* **Systems & Infrastructure:** Linux administration, automated security log processing, and relational database systems.
-
----
-
-## Technical Stack
-
-* **Programming & Statistical Computing:** Python, R, Java, C++, Bash
-* **Data Science & Modeling:** Scikit-Learn, Pandas, NumPy, Multivariate Statistics, Regression Analysis, Time Series
-* **Databases & Querying:** PostgreSQL, SQL Server, T-SQL, Database Auditing & Security
-* **Systems & Tools:** Linux (System Hardening, Shell Scripting), Git, AWS, Docker, Quarto
+- 🤖 **Machine Learning & Data Science**: Applied Regression Analysis, Time Series Forecasting, Classification Models, and Anomaly Detection.
+- 🛡️ **Cybersecurity & Data Privacy**: SQL Injection (SQLi) Audit Pipelines, Database Security Scoring, Differential Privacy, and Vulnerability Mitigation.
+- 🐧 **Linux & Cloud Infrastructure**: Shell Scripting (Bash), Log Analytics, System Hardening, and AWS Cloud Engineering.
+- 🎯 **Career Mission**: Developing robust, privacy-centric Machine Learning architectures backed by statistical rigor.
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack & Security Toolkit
 
-### 1. Applied Multivariate Analysis
-Implementation of multivariate statistical techniques including MANOVA, Principal Component Analysis (PCA), Discriminant Analysis, and Advanced Logistic Regression. Includes interactive technical reports generated with Quarto.
-* **Technologies:** R, Quarto, Python
-* **Repository:** [Applied-Multivariate-Analysis](https://github.com/brianalvaaquino/Applied-Multivariate-Analysis)
-
-### 2. Chopimath Web Platform
-Interactive web-based platform built to support mathematics and statistical learning. Features custom calculation engines and dynamic visualization modules.
-* **Technologies:** HTML5, CSS3, JavaScript, GitHub Pages
-* **Repository:** [Chopimath-Web](https://github.com/brianalvaaquino/Chopimath-Web)
-
-### 3. LP2 - Object-Oriented Programming Project
-Academic midterm project for Programming Language II. Focuses on object-oriented system architecture, data structure optimization, and relational database integration.
-* **Technologies:** Java, C++, SQL
-* **Repository:** [LP2-Midterm-Project](https://github.com/brianalvaaquino/LP2-Midterm-Project)
-
-### 4. ML-Powered SQL Injection Detection & Database Risk Scoring
-A statistical and machine learning pipeline applying Logistic Regression and Random Forest algorithms to classify malicious SQL queries and calculate risk metrics for relational database security audits.
-* **Technologies:** Python, PostgreSQL, SQL, Scikit-Learn
-* **Repository:** [SQLi-Database-Risk-Assessment](https://github.com/brianalvaaquino/SQLi-Database-Risk-Assessment)
-
-### 5. Predictive Linux Security & Data Intrusion Modeling
-Application of regression models and anomaly detection algorithms to Linux kernel calls and authentication logs to predict unauthorized access attempts and secure sensitive data pipelines.
-* **Technologies:** Linux, Python, Bash, Regression Analysis
-* **Repository:** [Linux-Predictive-Security-Data-Protection](https://github.com/brianalvaaquino/Linux-Predictive-Security-Data-Protection)
-
-### 6. Statistical Threat Detection & Anomaly SIEM for Linux & SQL
-Time-series statistical analysis and machine learning models (Poisson Regression and Isolation Forest) for real-time anomaly detection in Linux system logs and database transaction flows.
-* **Technologies:** Python, Linux, Time-Series Analysis, SQL Audit
-* **Repository:** [SIEM-Statistical-Threat-Detection](https://github.com/brianalvaaquino/SIEM-Statistical-Threat-Detection)
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top"><b>📊 Stats & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🛡️ Cybersecurity & Privacy</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQLi_Audit-Security-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/Data_Protection-Encryption-blueviolet?style=flat-square" />
+      <img src="https://img.shields.io/badge/Differential_Privacy-Privacy-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/Anomaly_Detection-ML_Security-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🗄️ Databases & Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🚀 Tools & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Areas of Focus
+## 🚀 Featured Projects
 
-* **Statistical Security & Data Privacy:** Applying inference models, regression analysis, and differential privacy principles to protect database environments.
-* **Machine Learning in Cybersecurity:** Developing classification and regression models to identify SQL injection attacks, log anomalies, and system vulnerabilities.
-* **Linux Systems & Automation:** Automating log analysis, system security configurations, and data pipeline monitoring using Bash and Python.
-* **Educational Tool Development:** Building interactive web platforms to make complex mathematical and statistical concepts accessible.
+<table width="100%">
+  <!-- PROJECT 1 -->
+  <tr>
+    <td width="35%" valign="top">
+      <b>📊 1. Applied Multivariate Analysis</b><br /><br />
+      <a href="https://github.com/brianalvaaquino/Applied-Multivariate-Analysis">
+        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      Statistical and computational evaluations using multivariate techniques: MANOVA/MANCOVA, Principal Component Analysis (PCA), Discriminant Analysis, and Advanced Logistic Regression. Interactive technical reports generated with Quarto.<br /><br />
+      <b>Tech Stack:</b> <code>R</code> <code>Quarto</code> <code>Python</code> <code>PCA</code> <code>MANOVA</code>
+    </td>
+  </tr>
+
+  <!-- PROJECT 2 -->
+  <tr>
+    <td width="35%" valign="top">
+      <b>🌐 2. Chopimath Web Platform</b><br /><br />
+      <a href="https://github.com/brianalvaaquino/Chopimath-Web">
+        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      Interactive web application designed to support mathematics and statistical learning. Features custom analytical calculation engines, dynamic visualizations, and structured educational modules.<br /><br />
+      <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GitHub Pages</code>
+    </td>
+  </tr>
+
+  <!-- PROJECT 3 -->
+  <tr>
+    <td width="35%" valign="top">
+      <b>📦 3. LP2 - Object-Oriented Programming Project</b><br /><br />
+      <a href="https://github.com/brianalvaaquino/LP2-Midterm-Project">
+        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      Midterm academic project for Language Programming II (LP2). Focuses on OOP principles, custom data structure optimizations, and relational database connection architectures for analytical tasks.<br /><br />
+      <b>Tech Stack:</b> <code>Java</code> <code>C++</code> <code>OOP Architecture</code> <code>SQL</code>
+    </td>
+  </tr>
+
+  <!-- PROJECT 4 -->
+  <tr>
+    <td width="35%" valign="top">
+      <b>🛡️ 4. ML-Powered SQL Injection Detection & Database Risk Scoring</b><br /><br />
+      <a href="https://github.com/brianalvaaquino/SQLi-Database-Risk-Assessment">
+        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      A Machine Learning security pipeline leveraging Logistic Regression, Random Forest, and natural language query parsing to classify malicious SQL injections and compute automated database vulnerability risk scores.<br /><br />
+      <b>Tech Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>SQL</code> <code>PostgreSQL</code> <code>Logistic Regression</code>
+    </td>
+  </tr>
+
+  <!-- PROJECT 5 -->
+  <tr>
+    <td width="35%" valign="top">
+      <b>🐧 5. Predictive Linux Security & Data Intrusion Modeling</b><br /><br />
+      <a href="https://github.com/brianalvaaquino/Linux-Predictive-Security-Data-Protection">
+        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      Statistical regression models and unsupervised anomaly detection algorithms applied to Linux system calls and access logs to predict unauthorized data access and enforce automated data protection rules.<br /><br />
+      <b>Tech Stack:</b> <code>Linux</code> <code>Python</code> <code>Bash</code> <code>Regression Analysis</code> <code>Data Protection</code>
+    </td>
+  </tr>
+
+  <!-- PROJECT 6 -->
+  <tr>
+    <td width="35%" valign="top">
+      <b>🔍 6. Statistical Threat Detection & Anomaly SIEM for Linux & SQL</b><br /><br />
+      <a href="https://github.com/brianalvaaquino/SIEM-Statistical-Threat-Detection">
+        <img src="https://img.shields.io/badge/View_Repo-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      Time-series statistical analysis and Machine Learning models (Isolation Forest & Poisson Regression) for real-time anomaly detection in Linux authentication logs and database query traffic.<br /><br />
+      <b>Tech Stack:</b> <code>Python</code> <code>Machine Learning</code> <code>Time-Series Analysis</code> <code>SQL Audit</code> <code>Linux</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Languages
+## 🎯 Core Focus & Research Areas
 
-* **Spanish:** Native
-* **English:** Technical Reading and Writing (Intermediate)
+<table width="100%">
+  <tr>
+    <th width="33%">🔐 ML for Cybersecurity</th>
+    <th width="33%">🛡️ Data Privacy & Protection</th>
+    <th width="34%">🐧 Linux & Statistical Systems</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      Applying supervised and unsupervised Machine Learning models to analyze network traffic, query patterns, and classify malicious SQL injection payloads.
+    </td>
+    <td valign="top">
+      Implementing mathematical frameworks like Differential Privacy and cryptographic controls to secure database environments and confidential datasets.
+    </td>
+    <td valign="top">
+      Automating security log ingestion, time-series anomaly detection, and kernel monitoring using Bash, Python, and Linux server environments.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Languages
+
+<table width="100%">
+  <tr>
+    <th width="50%">Language</th>
+    <th width="50%">Proficiency</th>
+  </tr>
+  <tr>
+    <td>🇵🇪 <b>Spanish</b></td>
+    <td>Native Speaker</td>
+  </tr>
+  <tr>
+    <td>🇬🇧 <b>English</b></td>
+    <td>Technical Reading & Writing (Intermediate)</td>
+  </tr>
+</table>
