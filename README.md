@@ -1,11 +1,11 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER LOCAL -->
 <div align="center">
-  <img src="https://motionbgs.com/media/5599/binary-code-falling.jpg" width="100%" alt="Cybersecurity & Binary Code Banner" />
+  <img src="./banner-binario.jpg" width="100%" alt="Cybersecurity & Binary Code Banner" />
 </div>
 
 <br />
 
-<!-- HEADER SECTION WITH UNALM SHIELD -->
+<!-- HEADER SECTION WITH LOCAL UNALM SHIELD -->
 <table border="0" width="100%">
   <tr>
     <td width="78%" valign="top">
@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="22%" align="center" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_UNALM.png/300px-Escudo_UNALM.png" width="130" alt="UNALM Shield" />
+      <img src="./escudo-unalm.jpg" width="130" alt="UNALM Shield" />
     </td>
   </tr>
 </table>
